@@ -1,0 +1,8 @@
+# SurvivorCare AI / SheCare AI Local Storage and Session Protection
+data/users.json
+data/sessions.json
+data/sos_gateway_log.json
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
